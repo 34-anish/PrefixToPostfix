@@ -11,7 +11,7 @@ int main()
     try
     {
         std::cout << std::endl;
-        string pre_exp = "+ A * B C D ";
+        string pre_exp = "+++A*BCD";
         std::cout << "PREFIX OF :   " << pre_exp << endl
                   << std::endl;
         std::cout << "Reading the string from right to left order...." << std::endl;
